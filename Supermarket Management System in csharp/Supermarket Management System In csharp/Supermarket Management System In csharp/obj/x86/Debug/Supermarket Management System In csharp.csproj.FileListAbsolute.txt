@@ -1,0 +1,25 @@
+c:\users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket_Management_System_In_csharp.frmHome.resources
+c:\users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket_Management_System_In_csharp.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket Management System In csharp.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\bin\Debug\Supermarket Management System In csharp.exe
+c:\users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\bin\Debug\Supermarket Management System In csharp.pdb
+c:\users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket Management System In csharp.exe
+c:\users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket Management System In csharp.pdb
+c:\users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket_Management_System_In_csharp.UC_Billing.resources
+c:\users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket_Management_System_In_csharp.UC_categories.resources
+c:\users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket_Management_System_In_csharp.UC_Customers.resources
+c:\users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket_Management_System_In_csharp.UC_dashboard.resources
+c:\users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket_Management_System_In_csharp.UC_orders.resources
+c:\users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket_Management_System_In_csharp.UC_products.resources
+c:\users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket_Management_System_In_csharp.UC_Sellers.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket_Management_System_In_csharp.frmlogin.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket Management System In csharp.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\RdlCompile.cache
+C:\Users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\RdlCompile.compiled
+C:\Users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\bin\Debug\SMS.mdf
+C:\Users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\bin\Debug\SMS_log.ldf
+C:\Users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket_Management_System_In_csharp.frm_invoice.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket_Management_System_In_csharp.frm_help.resources
+C:\Users\HONGSON\Downloads\Supermarket Management System in csharp\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket Management System In csharp.csproj.AssemblyReference.cache
+C:\Users\HONGSON\Downloads\Supermarket Management System in csharp\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket Management System In csharp.exe
+C:\Users\HONGSON\Downloads\Supermarket Management System in csharp\Supermarket Management System In csharp\Supermarket Management System In csharp\obj\x86\Debug\Supermarket Management System In csharp.pdb
